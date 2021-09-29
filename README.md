@@ -1,1 +1,3 @@
-# Mark2-Are-You-a-True-Bollywood-Fan
+# CLI-Quiz2
+A CLI app built using NodeJS. Send this to your friends and find out who is a True Bollywood Fan.
+https://replit.com/@Saumyaj/Are-You-a-True-Bollywood-Fan#index.js?embed=1&output=1
